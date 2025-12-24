@@ -1,0 +1,5 @@
+{
+  "name": "TeamSync HR Tools",
+  "description": "A professional tool for HR to manage lists, conduct lucky draws with animation, and automatically generate teams from CSV or pasted names.",
+  "requestFramePermissions": []
+}
